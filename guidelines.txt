@@ -1,0 +1,7 @@
+Canary Manufacturing Training Grant: program guidelines (test document)
+
+This is not a real program. Nasup's crawler reads this file to test linked-document changes.
+
+1. Grants cover 50% of eligible training costs.
+2. The most a company can receive is $25,000 per year.
+3. Training must start within 90 days of approval.
