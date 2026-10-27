@@ -1,4 +1,4 @@
 ID,Company,Amount,Drill revision
+C001,Canary Example A,100,read-v2
+C002,Canary Example B,200,read-v2
 C003,Canary Example C,300,read-v2
-C001,Canary Example A,150,read-v2
-C004,Canary Example D,400,read-v2
