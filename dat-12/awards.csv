@@ -1,4 +1,4 @@
-ID,Company,Amount,Drill revision
-C003,Canary Example C,300,read-v2
-C001,Canary Example A,150,read-v2
-C004,Canary Example D,400,read-v2
+Drill revision,Company,ID,Ignored note
+read-v2,Canary Example C,C003,publication-gate
+read-v2,Canary Example A,C001,publication-gate
+read-v2,Canary Example D,C004,publication-gate
