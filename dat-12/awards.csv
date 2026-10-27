@@ -1,4 +1,4 @@
-Drill revision,Company,ID,Ignored note
-read-v2,Canary Example C,C003,missing-amount
-read-v2,Canary Example A,C001,missing-amount
-read-v2,Canary Example B,C002,missing-amount
+ID,Company,Amount,Drill revision
+C003,Canary Example C,300,read-v2
+C001,Canary Example A,150,read-v2
+C004,Canary Example D,400,read-v2
